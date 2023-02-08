@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdityaSingh2021
 - 👀 I’m interested in Machine Learning, Deep Learning and Neural Networks and Artificial Intelligence
- - 🌱 I’m currently learning Machine Learning
+ - 🌱 I’m currently learning about Deep Learing
+ - I work majorly on computer vision and NLP tasks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me singh3112aditya@gmail.com
 
